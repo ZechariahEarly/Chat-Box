@@ -1,4 +1,4 @@
-# Chat-Bot
+# Chat-Box
 
 **Summary: Chat-Box in Java utilizing socket connections**
 
